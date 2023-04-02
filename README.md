@@ -1,2 +1,2 @@
 # NumericalMethods
-Metody numeryczne, implementacja algorytmów.
+Numerical methods, implementations of algorithms. 

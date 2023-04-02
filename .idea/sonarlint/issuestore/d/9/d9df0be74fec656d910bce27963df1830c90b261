@@ -1,0 +1,40 @@
+
+ypython:S1192c"aDefine a constant instead of duplicating this literal "Wielomian interpolacyjny dla n=9" 4 times.(ñœäã
+~python:S1192{"aDefine a constant instead of duplicating this literal "Wielomian interpolacyjny dla n=7" 3 times.(®µ­øÿÿÿÿ
+python:S1192b"bDefine a constant instead of duplicating this literal "Wielomian interpolacyjny dla n=10" 4 times.(‹‰Ÿ½øÿÿÿÿ
+qpython:S117#"URename this local variable "tmpX" to match the regular expression ^[_a-z][a-z0-9_]*$.(„ğĞ­üÿÿÿÿ
+hpython:S1542 "KRename function "XforA" to match the regular expression ^[a-z_][a-z0-9_]*$.(³©æ÷úÿÿÿÿ
+lpython:S117*"URename this local variable "tmpX" to match the regular expression ^[_a-z][a-z0-9_]*$.(£¸íÇ
+hpython:S1542'"KRename function "XforB" to match the regular expression ^[a-z_][a-z0-9_]*$.(ğİıùÿÿÿÿ
+lpython:S1173"URename this local variable "tmpY" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ôİæš
+bpython:S1542/"KRename function "YforA" to match the regular expression ^[a-z_][a-z0-9_]*$.(ºêÌ3
+qpython:S117;"URename this local variable "tmpY" to match the regular expression ^[_a-z][a-z0-9_]*$.( ¬¤‹ıÿÿÿÿ
+vpython:S15427"YRename function "YforAnotherFunction" to match the regular expression ^[a-z_][a-z0-9_]*$.(¦­Îûùÿÿÿÿ
+tpython:S117D"]Rename this local variable "algorithmdY5" to match the regular expression ^[_a-z][a-z0-9_]*$.(…Ù¹­
+zpython:S117E"^Rename this local variable "algorithmdY5b" to match the regular expression ^[_a-z][a-z0-9_]*$.(–¿¡†úÿÿÿÿ
+upython:S117F"YRename this local variable "rangeofX" to match the regular expression ^[_a-z][a-z0-9_]*$.(„’şëşÿÿÿÿ
+mpython:S1542B"URename function "functionToCheck" to match the regular expression ^[a-z_][a-z0-9_]*$.(×éÚö
+ypython:S117R"]Rename this local variable "XforFunction" to match the regular expression ^[_a-z][a-z0-9_]*$.(®œå–úÿÿÿÿ
+zpython:S117Y"^Rename this local variable "algorithmdY10" to match the regular expression ^[_a-z][a-z0-9_]*$.(˜ÿİåşÿÿÿÿ
+tpython:S117X"]Rename this local variable "algorithmdY5" to match the regular expression ^[_a-z][a-z0-9_]*$.(…Ù¹­
+tpython:S117Z"]Rename this local variable "algorithmdY9" to match the regular expression ^[_a-z][a-z0-9_]*$.(¢Ÿ‹À
+upython:S117T"YRename this local variable "rangeofX" to match the regular expression ^[_a-z][a-z0-9_]*$.(„’şëşÿÿÿÿ
+opython:S1542P"RRename function "solutionforA" to match the regular expression ^[a-z_][a-z0-9_]*$.(Åä€…ùÿÿÿÿ
+ypython:S117l"]Rename this local variable "XforFunction" to match the regular expression ^[_a-z][a-z0-9_]*$.(–öÑÆüÿÿÿÿ
+zpython:S117s"^Rename this local variable "algorithmdY10" to match the regular expression ^[_a-z][a-z0-9_]*$.(˜ÿİåşÿÿÿÿ
+tpython:S117r"]Rename this local variable "algorithmdY5" to match the regular expression ^[_a-z][a-z0-9_]*$.(…Ù¹­
+tpython:S117t"]Rename this local variable "algorithmdY9" to match the regular expression ^[_a-z][a-z0-9_]*$.(¢Ÿ‹À
+upython:S117n"YRename this local variable "rangeofX" to match the regular expression ^[_a-z][a-z0-9_]*$.(„’şëşÿÿÿÿ
+opython:S1542j"RRename function "solutionforB" to match the regular expression ^[a-z_][a-z0-9_]*$.(¬¨©ÿÿÿÿÿÿ
+zpython:S117ˆ"]Rename this local variable "XforFunction" to match the regular expression ^[_a-z][a-z0-9_]*$.(®œå–úÿÿÿÿ
+{python:S117"^Rename this local variable "algorithmdY10" to match the regular expression ^[_a-z][a-z0-9_]*$.(˜ÿİåşÿÿÿÿ
+upython:S117"]Rename this local variable "algorithmdY5" to match the regular expression ^[_a-z][a-z0-9_]*$.(…Ù¹­
+upython:S117"]Rename this local variable "algorithmdY9" to match the regular expression ^[_a-z][a-z0-9_]*$.(¢Ÿ‹À
+vpython:S117Š"YRename this local variable "rangeofX" to match the regular expression ^[_a-z][a-z0-9_]*$.(„’şëşÿÿÿÿ
+‚python:S1542†"dRename function "solutionforAforAnotherFunction" to match the regular expression ^[a-z_][a-z0-9_]*$.(©¦ƒÿÿÿÿÿ
+zpython:S117¢"]Rename this local variable "XforFunction" to match the regular expression ^[_a-z][a-z0-9_]*$.(–öÑÆüÿÿÿÿ
+{python:S117©"^Rename this local variable "algorithmdY10" to match the regular expression ^[_a-z][a-z0-9_]*$.(˜ÿİåşÿÿÿÿ
+upython:S117¨"]Rename this local variable "algorithmdY5" to match the regular expression ^[_a-z][a-z0-9_]*$.(…Ù¹­
+upython:S117ª"]Rename this local variable "algorithmdY9" to match the regular expression ^[_a-z][a-z0-9_]*$.(¢Ÿ‹À
+vpython:S117¤"YRename this local variable "rangeofX" to match the regular expression ^[_a-z][a-z0-9_]*$.(„’şëşÿÿÿÿ
+}python:S1542 "dRename function "solutionforBforAnotherFunction" to match the regular expression ^[a-z_][a-z0-9_]*$.(¹ãÏ²
